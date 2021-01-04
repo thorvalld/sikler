@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sikler</string>
+    <string name="password_hint">password</string>
+    <string name="login_hint">login</string>
+    <string name="login">LOGIN</string>
+    <string name="not_a_member">not a member yet? SIGN UP</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="register">register</string>
+    <string name="already_a_member">already a member? LOG IN</string>
+</resources>
